@@ -1,5 +1,5 @@
 How did viewing a diff between two versions of a file help you see the bug that
-was introduced?
+was introduced.
 
     I did not have to manually scroll through many lines of text to find the differences.
 
